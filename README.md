@@ -19,4 +19,4 @@
 ```
 ***
 
-<img width="" height="" src="./png/고양이.png"></img>
+<img width="" height="" src="./png/고양이.jpg"></img>
